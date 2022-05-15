@@ -1,0 +1,3 @@
+[submodule "NewSite/themes/terminal"]
+	path = NewSite/themes/terminal
+	url = git@github.com:panr/hugo-theme-terminal.git

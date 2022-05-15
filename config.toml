@@ -1,4 +1,4 @@
-baseURL = 'https://helpful-cat-f0c640.netlify.app'
+baseURL = 'https://helpful-cat-f0c640.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
